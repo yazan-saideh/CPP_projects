@@ -1,0 +1,3 @@
+If there is a stdout file for the test, the output of the test must be identical to the corresponding stdout file.
+Otherwise, a non-zero exit code from this test indicates failure.
+These tests are not mandatory for Miluim.
