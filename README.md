@@ -22,12 +22,6 @@ NeuroDigits is a neural network implementation in C++ for recognizing handwritte
 - Optimized matrix operations for fast performance  
 - File-based model saving and loading  
 
-## Technologies Used  
-- **C++** (27.7%) - Core programming language  
-- **C** (13.4%) - Low-level optimizations  
-- **Makefile** (51.2%) - Build automation  
-- **CMake** (7.5%) - Cross-platform build configuration  
-
 ## How to Use  
 1. Clone this repository:  
    ```sh
